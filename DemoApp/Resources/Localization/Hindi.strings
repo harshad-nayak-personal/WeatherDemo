@@ -1,0 +1,16 @@
+/* 
+  Hindi.strings
+  DemoApp
+  
+*/
+
+"kAppName" = "मौसम ऐप";
+"kError" = "गलती";
+"kErrorLocationPermission" = "स्थान अनुमति में त्रुटि";
+"kLocationError" = "स्थान त्रुटि";
+"kLocationFetchError" = "स्थान लाने में त्रुटि";
+"kAPIErrorTitle" = "एपीआई त्रुटि";
+"kAPIErrorMessage" = "एपीआई कॉल में त्रुटि";
+"kLocationDenyTitle" = "कोई स्थान पहुंच नहीं";
+"kLocationMessage1" = "कृपया सेटिंग में जाएं और अपने स्थान पर स्विच करें। सेटिंग्स ->";
+"kLocationMessage2" = "-> स्थान पर स्विच करें";

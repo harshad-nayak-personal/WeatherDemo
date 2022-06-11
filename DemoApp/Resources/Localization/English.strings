@@ -1,0 +1,17 @@
+/* 
+  English.strings
+  DemoApp
+  
+*/
+
+"kAppName" = "Weather App";
+"kError" = "Error";
+"kErrorLocationPermission" = "Error in locaiton permission";
+"kLocationError" = "Location Error";
+"kLocationFetchError" = "Error in fetching Location";
+"kAPIErrorTitle" = "API Error";
+"kAPIErrorMessage" = "Error in api call";
+"kLocationDenyTitle" = "No location access";
+"kLocationMessage1" = "Please go to settings and switch on your Location. settings ->";
+"kLocationMessage2" = "-> switch on location";
+
